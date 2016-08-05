@@ -2,5 +2,5 @@
 Some codes from our course Advance C++
 
 All work done by :
-  Sai Praneeth
-  Satyam Verma
+ - Sai Praneeth
+ - Satyam Verma
